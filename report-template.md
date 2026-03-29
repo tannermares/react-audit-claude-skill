@@ -62,4 +62,5 @@ Use this structure for the generated report. Fill each section with actual findi
 
 ### Appendix
 - Methodology: tools used, standards applied, files analyzed
+- References: [WCAG 2.1](https://www.w3.org/TR/WCAG21/), [OWASP Top 10](https://owasp.org/Top10/), [React Documentation](https://react.dev), [WAI-ARIA APG](https://www.w3.org/WAI/ARIA/apg/)
 - Audit date and skill version

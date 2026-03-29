@@ -7,7 +7,9 @@ argument-hint: output-filename
 
 # React Application Audit
 
-Perform a comprehensive audit of a React application covering:
+Perform a comprehensive audit of a React application covering the areas below. Audit criteria are grounded in [React documentation](https://react.dev), [WCAG 2.1 AA](https://www.w3.org/WAI/WCAG21/quickref/), [OWASP Top 10](https://owasp.org/Top10/), and community best practices. See reference files for per-check citations.
+
+Areas covered:
 
 1. Coding Standards & Best Practices
 2. Component Architecture
